@@ -953,6 +953,9 @@ a:focus {
 .white-bg {
 	background: #fff;
 }
+.products .white-bg:hover {
+  background: #f5f5f5;
+}
 
 /* === Footer === */
 
@@ -3277,13 +3280,13 @@ blockquote.pull-right {
 }
 
 #content-half-img-1 {
-	background: url("../img/CajaChocofrases_1.jpg") center no-repeat;
+	background: url("../img/CajaChocofrases1.jpg") center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 
 #content-half-img-2 {
-	background: url("../img/BocaditoDulceDeLecheIndividual_1.jpg") center no-repeat;
+	background: url("../img/BocaditoDulceDeLecheIndividual1.jpg") center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
